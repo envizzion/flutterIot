@@ -1,4 +1,4 @@
-# jesus_light
+#flutter project with firebase integration 
 
 A new Flutter project.
 
